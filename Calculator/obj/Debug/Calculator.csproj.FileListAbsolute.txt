@@ -1,0 +1,12 @@
+c:\users\su14eriks\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\su14eriks\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\su14eriks\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\su14eriks\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\su14eriks\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\su14eriks\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\1 map of Cool Stuff!\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\1 map of Cool Stuff!\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\1 map of Cool Stuff!\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\1 map of Cool Stuff!\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\1 map of Cool Stuff!\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\su14eriks\Documents\Visual Studio 2013\Projects\1 map of Cool Stuff!\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
